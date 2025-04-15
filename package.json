@@ -1,0 +1,19 @@
+{
+  "name": "webclass",
+  "version": "1.0.0",
+  "description": "this is a class work of MCSD51 course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarikaraj11/webclass.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sarikaraj11/webclass/issues"
+  },
+  "homepage": "https://github.com/sarikaraj11/webclass#readme"
+}
