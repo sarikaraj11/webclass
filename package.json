@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/sarikaraj11/webclass/issues"
   },
-  "homepage": "https://github.com/sarikaraj11/webclass#readme"
+  "homepage": "https://github.com/sarikaraj11/webclass#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }
